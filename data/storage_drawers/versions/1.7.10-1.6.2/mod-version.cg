@@ -146,6 +146,11 @@ item: Compacting Drawer
         pattern: 000 121 030
         quantity: 1
         tools: Crafting Table
+    recipe: expert
+        input: Triple Compressed Cobblestone, Rolling Machine, Piston, Oak Drawers 2x2, Metals Chest
+        pattern: 010 232 040
+        quantity: 1
+        tools: Crafting Table
 
 item: Concealment Key
     recipe:
@@ -156,6 +161,11 @@ item: Concealment Key
 item: Controller Slave
     recipe:
         input: Stone, Redstone Comparator, Oak Drawer, Gold Ingot
+        pattern: 000 121 030
+        quantity: 1
+        tools: Crafting Table
+    recipe: expert
+        input: Cobblestone, Redstone Comparator, Oak Drawer, Gold Chipset
         pattern: 000 121 030
         quantity: 1
         tools: Crafting Table
@@ -191,6 +201,11 @@ item: Dark Oak Trim
 item: Drawer Controller
     recipe:
         input: Stone, Redstone Comparator, Oak Drawer, Diamond
+        pattern: 000 121 030
+        quantity: 1
+        tools: Crafting Table
+    recipe: expert
+        input: Cobblestone, Redstone Comparator, Oak Drawer, Diamond Chipset
         pattern: 000 121 030
         quantity: 1
         tools: Crafting Table
